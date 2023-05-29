@@ -8,10 +8,14 @@
 
 # Project experience
 
-Interest-Rates Derivative model/n
+Interest-Rates Derivative model
+
 A Comparative Study of VaR models
+
 Credit Card Default Prediction 
+
 Pair-Trading on High-Frequency Data
+
 Crime Rates Analysis
 
 updating.... 
