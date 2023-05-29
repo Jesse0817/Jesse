@@ -8,7 +8,7 @@
 
 # Project experience
 
-Interest-Rates Derivative model
+Interest-Rates Derivative model/n
 A Comparative Study of VaR models
 Credit Card Default Prediction 
 Pair-Trading on High-Frequency Data
